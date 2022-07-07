@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RaylockOblivion
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning unity and unreal
+- 💞️ I’m looking to collaborate on any game development project where i get to code mechanic
